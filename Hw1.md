@@ -3,7 +3,7 @@
 
 a = b = c = d = e = 0
 ans = 0
-# 把答案算到最大值後丟入for迴圈
+# 把答案算到最大值後丟入for迴圈，最大值是自己求完以後代入的
 
 for a_num in range (0,51):
     for b_num in range (0,31):
@@ -22,7 +22,7 @@ for a_num in range (0,51):
                                             c=c_num
                                             d=d_num
                                             e=e_num
-
+#滿足條件的會成為ans 和 a,b,c,d,e 並將他打印出來後就是結果。
 print(ans,a,b,c,d,e)
 ```
 
