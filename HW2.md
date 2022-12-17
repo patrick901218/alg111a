@@ -48,3 +48,4 @@ combination([1,2,3,4,5], 3)
 ![image](https://user-images.githubusercontent.com/79677951/208236086-cb1c36eb-d3f7-42df-aa07-48ecb2965b4f.png)
 
 
+> 幾乎都是看老師的Code，但因為程式碼並不複雜因此稍花一點時間就能理解。除了做了些許修改將呼喚的函式名字減短以外邏輯都沒有改變。
