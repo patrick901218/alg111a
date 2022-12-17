@@ -25,3 +25,6 @@ for a_num in range (0,51):
 
 print(ans,a,b,c,d,e)
 ```
+
+# 執行結果
+![image](https://user-images.githubusercontent.com/79677951/208234470-e20aaa28-ca63-4e96-ab5f-95cd64b398b4.png)
